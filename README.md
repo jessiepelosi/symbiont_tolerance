@@ -3,3 +3,5 @@
 Code developed for Pelosi, Eaton et al. "Thermally tolerant symbionts may explain Caribbean octocoral resilience to heat stress".
 
 Code was developed by J.A. Pelosi and C.P. terHorst. 
+
+<i> Last updated: October 17, 2020 </i> 
